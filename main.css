@@ -19,7 +19,7 @@ body {
 
 /* main header rules */
 header {
-    background-color: rgb(37, 27, 19);
+    background-color: rgba(35, 20, 4, 0.863);
     position: sticky;
     top: 0;
     text-align: center;
@@ -30,9 +30,9 @@ header {
 /* main rules here */
 #character_nav {
     text-align: center;
-    background-color: #675050;
+    background-color: rgba(35, 20, 4, 0.863);
 
-    background-image: url(img/himym_background.jpeg);
+    background-image: url();
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -66,7 +66,7 @@ header {
 .red_bumper {
     width: 100%;
     height: 6px;
-    background-color:  rgb(17, 12, 8);
+    background-color: rgb(151, 113, 72);
 
     transition: height 0.2s ease;
 
@@ -161,7 +161,7 @@ footer {
     font-weight: bolder;
 }
 
-.lightbox_close:hover { opacity: 0.5; color: red; }
+.lightbox_close:hover { opacity: 0.5; color: rgb(0, 0, 0); }
 
 .lightbox article {
     width: 55%;
