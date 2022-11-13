@@ -32,7 +32,7 @@ header {
     text-align: center;
     background-color: #675050;
 
-    background-image: url('../images/characters_art_mas_mob_01.jpeg');
+    background-image: url(how_i_met_your_mother_sprite.png);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -98,7 +98,7 @@ article p {
     width: 150px;
     height: 150px;
     
-    background-image: url('../images/marvelSprites.jpg');
+    background-image: url(how_i_met_your_mother_sprite.png);
 }
 
 #carol { background-position: -150px 0; }
