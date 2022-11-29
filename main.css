@@ -25,7 +25,8 @@ header {
     text-align: center;
 }
 
-#main-logo { width: 300px; padding: 10px 0; }
+#main-logo { width: 100px; padding: 10px 0; 
+border-radius: 50%;}
 
 /* main rules here */
 #character_nav {
