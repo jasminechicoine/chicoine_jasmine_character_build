@@ -1,5 +1,5 @@
 ## How I Met Your Mother Character Build
-TODO: Write a project description
+TODO: this is a page all about the how i met your mother cast
 ## Installation
 TODO: Describe the installation process
 ## Usage
